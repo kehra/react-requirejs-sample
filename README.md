@@ -1,1 +1,3 @@
 # react-requirejs-sample
+
+test
